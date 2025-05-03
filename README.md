@@ -82,7 +82,7 @@
 </p>
 
 
-### 🏅 GitHub Batches
+### 🏅 GitHub Badges 
 
 <p align="left">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO"/>
