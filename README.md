@@ -81,6 +81,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sumanb1432&theme=radical&row=2&column=4" />
 </p>
 
+
+### 🏅 GitHub Batches
+
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" alt="Pair Extraordinaire"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw"/>
+</p>
+
+
 ---
 
 ### 🌍 Portfolio & Projects
